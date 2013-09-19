@@ -1,9 +1,20 @@
-amara-embeds-for-wordpress
+Amara Embeds Plugin for WordPress
 ==========================
 
-Amara Embed Plugin for WordPress.
-
 See amara-embeds-for-wordpress.php file's inline documentation for full details. 
+
+What is Amara/Universal Subtitles
+-----------------
+
+Amara is a project of the Participatory Culture Foundation that lets you co-operatively add subtitles on top of videos hosted by sites like YouTube. From their site:
+
+"Amara gives individuals, communities, and larger organizations the power to overcome accessibility and language barriers for online video. The tools are free and open source and make the work of subtitling and translating video simpler, more appealing, and, most of all, more collaborative."
+
+http://www.amara.org/en/about
+
+Amara offers an embed code to insert the video+captions into other sites, but it doesn't work with WordPress. This plugin fixes that.
+
+Note: This plugin was not written by Amara or PCF. I worked out the code for Global Voices because we use the Amara service.
 
 Using the plugin
 ----------------
