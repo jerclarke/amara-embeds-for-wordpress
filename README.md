@@ -3,7 +3,7 @@ Amara Embeds Plugin for WordPress
 
 See amara-embeds-for-wordpress.php file's inline documentation for full details. 
 
-What is Amara/Universal Subtitles
+What is Amara (formerly Universal Subtitles)?
 -----------------
 
 Amara is a project of the Participatory Culture Foundation that lets you co-operatively add subtitles on top of videos hosted by sites like YouTube. From their site:
@@ -46,4 +46,4 @@ The way this plugin works is to filter the output of the [embed] shortcode and, 
 
 https://github.com/pculture/unisubs/wiki/Embed-Code-Usage-Guide
 
-If Amara ever stops working then you can disable this plugin and all your videos will stop working(albeit without the subtitles). Alternately, if you don't want the videos to show without their subtitles, you can edit the plugin to make it output an error. 
+If Amara ever stops working then so will your videos with amara="1", but you can disable this plugin and all your videos start working again (albeit without their subtitles). Alternately, if you don't want the videos to show without their subtitles, you can edit the plugin to make it output an error instead. 
